@@ -43,7 +43,7 @@ let apiKey = "YOUR_TMDB_API_KEY"
 
 **Demo Video:**
 
-https://github.com/user-attachments/assets/d9bc3078-f44b-4a7a-8c1d-e643f290a744
+https://github.com/user-attachments/assets/54b47629-1a8f-48d0-a8b0-154e2324adfc
 
 **Requirements:**
 iOS 17+
