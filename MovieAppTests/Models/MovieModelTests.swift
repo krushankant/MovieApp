@@ -39,12 +39,4 @@ final class MovieModelTests: XCTestCase {
         let model = MovieModel(id: 4, title: "No Image", overview: "Missing poster", posterPath: nil)
         XCTAssertNil(model.posterURL)
     }
-    
-    func testPerformanceExample() throws {
-        // This is an example of a performance test case.
-        self.measure {
-            // Put the code you want to measure the time of here.
-        }
-    }
-    
 }
